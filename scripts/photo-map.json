@@ -1,0 +1,958 @@
+[
+  {
+    "output": "orbit/01.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.26.58.jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      167,
+      173,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/02.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.26.58 (1).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      152,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/03.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.26.58 (2).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      80,
+      0,
+      1200,
+      960
+    ],
+    "size": [
+      1000,
+      800
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/04.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02.jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      300,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/05.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (1).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      176,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/06.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (2).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      136,
+      480,
+      600
+    ],
+    "size": [
+      480,
+      600
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/07.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (3).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      169,
+      270,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/08.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (4).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      237,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/09.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (5).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      272,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/10.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (6).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      186,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/11.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (7).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 0,
+    "detector": "none",
+    "crop": [
+      0,
+      0,
+      1280,
+      1280
+    ],
+    "size": [
+      1000,
+      1000
+    ],
+    "warnings": [
+      "no face found, centred crop"
+    ],
+    "ok": true
+  },
+  {
+    "output": "orbit/12.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (8).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 0,
+    "detector": "none",
+    "crop": [
+      0,
+      121,
+      748,
+      935
+    ],
+    "size": [
+      748,
+      935
+    ],
+    "warnings": [
+      "no face found, centred crop"
+    ],
+    "ok": true
+  },
+  {
+    "output": "orbit/13.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (9).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      160,
+      406,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/14.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (10).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      26,
+      243,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/15.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (11).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      210,
+      0,
+      960,
+      768
+    ],
+    "size": [
+      960,
+      768
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/16.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (12).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      113,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/17.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (13).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      258,
+      723,
+      904
+    ],
+    "size": [
+      723,
+      904
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/18.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (14).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      235,
+      726,
+      908
+    ],
+    "size": [
+      726,
+      908
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/19.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (15).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      501,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/20.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (16).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      160,
+      575,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/21.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.02 (17).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      21,
+      0,
+      699,
+      699
+    ],
+    "size": [
+      699,
+      699
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/22.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03.jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      138,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/23.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (1).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      82,
+      0,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/24.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (2).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      198,
+      119,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/25.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (3).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      125,
+      180,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/26.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (4).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      225,
+      575,
+      718
+    ],
+    "size": [
+      575,
+      718
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/27.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (5).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      73,
+      114,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/28.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (6).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      305,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/29.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (7).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      0,
+      917,
+      917
+    ],
+    "size": [
+      917,
+      917
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/30.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (8).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      252,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/31.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (9).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      311,
+      731,
+      914
+    ],
+    "size": [
+      731,
+      914
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/32.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (10).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      71,
+      732,
+      915
+    ],
+    "size": [
+      732,
+      915
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/33.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (11).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      50,
+      244,
+      617,
+      771
+    ],
+    "size": [
+      617,
+      771
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/34.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (12).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      140,
+      31,
+      635,
+      793
+    ],
+    "size": [
+      635,
+      793
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/35.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (13).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "haar",
+    "crop": [
+      286,
+      466,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/36.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (14).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      0,
+      1013,
+      1266
+    ],
+    "size": [
+      800,
+      1000
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/37.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (15).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      50,
+      146,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/38.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (16).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      121,
+      203,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/39.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (17).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      230,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "orbit/40.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (18).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      15,
+      107,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "stars/01.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (19).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      126,
+      326,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "stars/02.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (20).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      344,
+      260,
+      875,
+      700
+    ],
+    "size": [
+      875,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "stars/03.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (21).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      222,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "stars/04.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (22).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 0,
+    "detector": "none",
+    "crop": [
+      0,
+      133,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [
+      "no face found, centred crop"
+    ],
+    "ok": true
+  },
+  {
+    "output": "stars/05.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (23).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      67,
+      245,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "stars/06.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (24).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      65,
+      159,
+      560,
+      700
+    ],
+    "size": [
+      560,
+      700
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "stars/07.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (25).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      380,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "stars/08.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (26).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      257,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "stars/09.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (27).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      287,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  },
+  {
+    "output": "stars/10.webp",
+    "original": "WhatsApp Image 2026-10-18 at 14.27.03 (28).jpeg",
+    "taken": "2026-10-18T14:29",
+    "faces": 1,
+    "detector": "yunet",
+    "crop": [
+      0,
+      256,
+      720,
+      900
+    ],
+    "size": [
+      720,
+      900
+    ],
+    "warnings": [],
+    "ok": true
+  }
+]

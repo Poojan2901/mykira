@@ -1,0 +1,502 @@
+{
+  "orbit/01": {
+    "caption": "You never tried to be the centre yet you always were",
+    "options": [
+      "You never tried to be the centre yet you always were",
+      "That shy smile hides the bravest heart I know",
+      "Standing there like the world is gentle because you are"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/02": {
+    "caption": "This smile carried me through days you never knew about",
+    "options": [
+      "This smile carried me through days you never knew about",
+      "Wind in your hair and nothing but kindness in your eyes",
+      "You laugh with your whole heart and I never said thank you"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/03": {
+    "caption": "That little girl already knew how to make the world smile",
+    "options": [
+      "That little girl already knew how to make the world smile",
+      "Before I ever knew you you were already this full of light",
+      "The same pure heart then and now"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/04": {
+    "caption": "Nobody else can make me laugh with one silly face",
+    "options": [
+      "Nobody else can make me laugh with one silly face",
+      "You never hide your silly side from me and I love that",
+      "Even your goofiest faces feel like home"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/05": {
+    "caption": "That quiet look that says everything will be okay",
+    "options": [
+      "That quiet look that says everything will be okay",
+      "So calm so gentle and you never once asked for too much",
+      "Your stillness has always been my safest place"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/06": {
+    "caption": "You turn the most ordinary days into something worth remembering",
+    "options": [
+      "You turn the most ordinary days into something worth remembering",
+      "Your playful side is my favourite kind of chaos",
+      "Wherever you go you leave a little more joy behind"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/07": {
+    "caption": "You carry sunshine even when the day has none to give",
+    "options": [
+      "You carry sunshine even when the day has none to give",
+      "That warm smile that always makes me feel welcome",
+      "The light finds you because you give so much of it"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/08": {
+    "caption": "You listen like every word I say matters",
+    "options": [
+      "You listen like every word I say matters",
+      "That patient look you give me when I talk too much",
+      "Being near you is still my favourite journey"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/09": {
+    "caption": "You feel things deeply and I did not always see that",
+    "options": [
+      "You feel things deeply and I did not always see that",
+      "Even in your quiet moments there is so much strength",
+      "Grace looks a lot like you lost in thought"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/10": {
+    "caption": "The softest heart I have ever been trusted with",
+    "options": [
+      "The softest heart I have ever been trusted with",
+      "That small smile when you think nobody is watching",
+      "You stay gentle in a world that rarely is"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/11": {
+    "caption": "I should have noticed when your light felt dim",
+    "options": [
+      "I should have noticed when your light felt dim",
+      "Even in the dark you were always quietly there",
+      "Some days you held everything in and I missed it"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/12": {
+    "caption": "I want to know even the parts you keep hidden",
+    "options": [
+      "I want to know even the parts you keep hidden",
+      "You never have to hide anything from me",
+      "Behind the camera a heart that loves so quietly"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/13": {
+    "caption": "Even when you turn away I find my way back to you",
+    "options": [
+      "Even when you turn away I find my way back to you",
+      "You never needed to be seen to make everything glow",
+      "I never want you to feel you walk alone"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/14": {
+    "caption": "You always find calm even when the sky is uncertain",
+    "options": [
+      "You always find calm even when the sky is uncertain",
+      "Looking at the horizon like you still believe in tomorrow",
+      "You shelter everyone and still keep your eyes on the sea"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/15": {
+    "caption": "Golden hour suits you because you are made of warmth",
+    "options": [
+      "Golden hour suits you because you are made of warmth",
+      "That look over your shoulder still makes my heart stop",
+      "Every sunset reminds me of the way you look back at me"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/16": {
+    "caption": "All those lights and you were still the brightest one",
+    "options": [
+      "All those lights and you were still the brightest one",
+      "Your happiness is the only celebration I will ever need",
+      "You move through life and pull everyone into the joy"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/17": {
+    "caption": "Free like the wind and still you chose to stay",
+    "options": [
+      "Free like the wind and still you chose to stay",
+      "You make the sky feel a little closer",
+      "Even the sun squints a little when you smile"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/18": {
+    "caption": "That sleepy smile is where all my worries go to rest",
+    "options": [
+      "That sleepy smile is where all my worries go to rest",
+      "So soft so safe so completely you",
+      "You make comfort feel like a person"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/19": {
+    "caption": "The sun was setting but my sun was right there",
+    "options": [
+      "The sun was setting but my sun was right there",
+      "At the edge of the sea with all that calm in you",
+      "Every ending looks hopeful when you are standing in it"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/20": {
+    "caption": "You grow kindness wherever you stand",
+    "options": [
+      "You grow kindness wherever you stand",
+      "That shy smile among the leaves undoes me",
+      "Quiet and green and gentle just like your heart"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/21": {
+    "caption": "That fearless little girl still lives in your heart",
+    "options": [
+      "That fearless little girl still lives in your heart",
+      "Born ready to dance through every festival of life",
+      "You have always held life with both hands"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/22": {
+    "caption": "Little stars around you as if the sky already knew",
+    "options": [
+      "Little stars around you as if the sky already knew",
+      "You hide behind the phone but never behind your heart",
+      "Even your doodles know you belong among the stars"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/23": {
+    "caption": "Nervous and smiling anyway that is your quiet courage",
+    "options": [
+      "Nervous and smiling anyway that is your quiet courage",
+      "You show up with your whole heart every single time",
+      "That excited little grin I want to protect forever"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/24": {
+    "caption": "Proud of you more than I ever said out loud",
+    "options": [
+      "Proud of you more than I ever said out loud",
+      "You walk into every room like you belong and you do",
+      "Confident and kind a rare mix and all you"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/25": {
+    "caption": "You smile down at the ground and the whole room turns golden",
+    "options": [
+      "You smile down at the ground and the whole room turns golden",
+      "All that colour around you and your heart still shines brighter",
+      "Playful shy and warm the best parts of every day"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/26": {
+    "caption": "I love you most in the moments you do not pose",
+    "options": [
+      "I love you most in the moments you do not pose",
+      "Lost in your own world and still you make room for me",
+      "Focused gentle real the version of you I adore"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/27": {
+    "caption": "You laugh with your eyes closed like joy is something you feel",
+    "options": [
+      "You laugh with your eyes closed like joy is something you feel",
+      "Peace signs and happy eyes you are my calm",
+      "Your happiness is my favourite thing to see"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/28": {
+    "caption": "Those steady eyes have forgiven me more than I deserved",
+    "options": [
+      "Those steady eyes have forgiven me more than I deserved",
+      "You look at me like you still see the good in me",
+      "Calm patient and honest everything I want to become"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/29": {
+    "caption": "I want to be the reason for this laugh again",
+    "options": [
+      "I want to be the reason for this laugh again",
+      "This laugh is the sound I want to hear forever",
+      "When you laugh like this the whole world feels lighter"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/30": {
+    "caption": "Your quiet confidence makes me want to be better",
+    "options": [
+      "Your quiet confidence makes me want to be better",
+      "That little smile tells me you believe in me",
+      "Strong and soft at the same time only you"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/31": {
+    "caption": "The wind keeps moving but you stay so steady",
+    "options": [
+      "The wind keeps moving but you stay so steady",
+      "You hold yourself together so gracefully even on windy days",
+      "Every little gesture of yours feels like poetry to me"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/32": {
+    "caption": "You find happiness in the simplest moments and share it with me",
+    "options": [
+      "You find happiness in the simplest moments and share it with me",
+      "Messy hair wide smile and a heart wide open",
+      "Free and fearless the way I always want you to feel"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/33": {
+    "caption": "You laugh like the world has never been unkind to you",
+    "options": [
+      "You laugh like the world has never been unkind to you",
+      "That shy laugh still feels like the very first time",
+      "Bright as the city lights and twice as warm"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/34": {
+    "caption": "Warm like an old song I never get tired of",
+    "options": [
+      "Warm like an old song I never get tired of",
+      "You make every era feel like it was made for you",
+      "A timeless soul with the kindest smile"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/35": {
+    "caption": "You find wonder in the smallest things and I love that",
+    "options": [
+      "You find wonder in the smallest things and I love that",
+      "Ordinary aisles feel like an adventure when you walk them",
+      "Your curious heart turns little moments into memories"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/36": {
+    "caption": "Home is wherever this cheeky grin is",
+    "options": [
+      "Home is wherever this cheeky grin is",
+      "That cheeky grin wins every argument we ever have",
+      "You make me smile without even trying"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/37": {
+    "caption": "This is what you look like to me made of light",
+    "options": [
+      "This is what you look like to me made of light",
+      "You glow from the inside out",
+      "Even the light wraps around you like it knows"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/38": {
+    "caption": "Your smile makes even grey walls feel like spring",
+    "options": [
+      "Your smile makes even grey walls feel like spring",
+      "You bloom wherever life plants you",
+      "Happy looks so natural on you I want to keep it there"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/39": {
+    "caption": "You see right through me and still you stay",
+    "options": [
+      "You see right through me and still you stay",
+      "Honest eyes that never once lied to me",
+      "Strong steady and true the person I trust most"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "orbit/40": {
+    "caption": "A soft smile that quietly fixes my worst days",
+    "options": [
+      "A soft smile that quietly fixes my worst days",
+      "Simple and real that is what I love about you",
+      "You never pretend and that makes you so rare"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "stars/01": {
+    "caption": "Playful and graceful at once like only you can be",
+    "options": [
+      "Playful and graceful at once like only you can be",
+      "You make every corner feel like a stage for joy",
+      "Your playful heart keeps mine young"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "stars/02": {
+    "caption": "The little girl who would one day become my sun",
+    "options": [
+      "The little girl who would one day become my sun",
+      "Even then you looked at the world so thoughtfully",
+      "That serious little face already held a gentle soul"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "stars/03": {
+    "caption": "Even tired you still save a smile for me",
+    "options": [
+      "Even tired you still save a smile for me",
+      "That sleepy smile is the softest thing I know",
+      "I miss these unguarded moments with you the most"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "stars/04": {
+    "caption": "I want to be there in your dark days too",
+    "options": [
+      "I want to be there in your dark days too",
+      "Even on your darkest days you were still my light",
+      "You never have to pretend to be okay with me"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "stars/05": {
+    "caption": "Like the flowers behind you you make everything gentler",
+    "options": [
+      "Like the flowers behind you you make everything gentler",
+      "Smiling at something only you can see",
+      "Growing into yourself and I am so proud of you"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "stars/06": {
+    "caption": "Leaning on the wall but always holding me up",
+    "options": [
+      "Leaning on the wall but always holding me up",
+      "Easy laughter and an open heart that is you",
+      "You make staying feel like the easiest choice"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "stars/07": {
+    "caption": "You soften every noise in my head",
+    "options": [
+      "You soften every noise in my head",
+      "Lost in your music and still the calmest place I know",
+      "A little butterfly landed on the gentlest soul"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "stars/08": {
+    "caption": "Patient with me through every detour I put us through",
+    "options": [
+      "Patient with me through every detour I put us through",
+      "That gentle smile that says I am still here",
+      "You make every long road feel shorter"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "stars/09": {
+    "caption": "You glow quietly and never ask for anything back",
+    "options": [
+      "You glow quietly and never ask for anything back",
+      "That shy little smile has always been my favourite secret",
+      "Simple moments with you are my biggest treasures"
+    ],
+    "locked": false,
+    "note": ""
+  },
+  "stars/10": {
+    "caption": "Grace and warmth wrapped in golden light forever my Krishi",
+    "options": [
+      "Grace and warmth wrapped in golden light forever my Krishi",
+      "And through it all you were always my sun",
+      "Every star leads back to this gentle soul"
+    ],
+    "locked": false,
+    "note": ""
+  }
+}
